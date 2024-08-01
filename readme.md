@@ -1,1 +1,1 @@
-#learning git in VSCode
+#learning Git in vscode
